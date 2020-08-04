@@ -9,6 +9,7 @@
 
 table {
   color: rgb(75, 145, 224);
+  font-weight: bold;
   border-radius: 5px;
   overflow: hidden;
   margin: 12px 0;
